@@ -5,7 +5,7 @@ echo "<hr>";
 ?>
 <html>
 <head>
-
+	<title>Home</title>
 </head>
 <body>
 
