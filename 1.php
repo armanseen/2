@@ -3,8 +3,6 @@
 echo "Hello";
 echo "<hr>";
 ?>
-=======
-?>
 <html>
 <head>
 
